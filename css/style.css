@@ -1,0 +1,42 @@
+body {
+  background-color: #165588;
+}
+
+.container {
+  margin-left:auto;
+  margin-right:auto;
+  background-color: #fff;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.card{
+  border: 0px !important;
+}
+.card h3 {
+  text-align: center;
+  margin-top: 50px;
+  color: #fff;
+  background-color: #4682B4;
+}
+.card h5 {
+  margin-top: 10px;
+  color: #fff;
+  background-color: #4682B4;
+  width: 390px;
+}
+
+.footer {  
+  bottom: 0;  
+  width: 100%;  
+  height: 60px; 
+  line-height: 60px; 
+  background-color: #165588;
+  display: flex;
+}
+#footer-text {
+  color: #fff;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+
